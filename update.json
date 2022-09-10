@@ -1,5 +1,5 @@
 {
-    "version": 1.4,
+    "version": 1.2,
     "update_file": "/update-03424.zip",
     "announcement": "<script src='https://cdn.jsdelivr.net/npm/sweetalert2@10'></script><script>if(localStorage.getItem('v14') == null){Swal.fire('Yeni Güncelleme!', 'Scriptin v1.4 sürümü yayınlanmıştır, eğer eski sürümü kullanıyorsanız <b>Ayarlar → Güncelleme Yöneticisi</b> sayfasından güncelleme yapabilirsiniz.', 'info').then(e => {localStorage.setItem('v14', true)})}</script>Scriptin v1.4 sürümü yayınlandı. Güncel sürümü kullandığınızdan emin olun.",
     "update_details": [
